@@ -1,5 +1,3 @@
-# youtube-data-api-video-player
-
 # Youtube data api video player v1.0.1
 
 <br />
