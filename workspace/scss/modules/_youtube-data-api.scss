@@ -101,6 +101,7 @@ iframe[src*="//www.youtube.com"] {
                 @include background-size(cover);
                 @include opacity(1);
                 @include transition(opacity 1s ease-out);
+                @include scale(1.05);
                 
                 &.disabled-teka-video { @include opacity(0); }
                 &.hide-teka-video { display: none; }
